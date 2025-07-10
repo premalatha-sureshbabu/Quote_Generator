@@ -5,7 +5,7 @@ body {
   justify-content: center;
   height: 100vh;
   font-family: 'Open Sans', sans-serif;
-  background-color: #f0f0f0;
+  background-color:beige;
   margin: 0;
 }
 
@@ -37,12 +37,12 @@ h1 {
   margin-top: 20px;
   padding: 10px 20px;
   font-size: 16px;
-  background-color: #007bff;
+  background-color:aqua;
   border: none;
   border-radius: 5px;
-  color: white;
+  color:black;
   cursor: pointer;
-  text-decoration: none; /* Remove underline from <a> */
+  text-decoration: none; 
   transition: background-color 0.3s;
   display: inline-block;
 }
