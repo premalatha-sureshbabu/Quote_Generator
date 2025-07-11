@@ -9,7 +9,7 @@ const quotes = [
 
 const quoteEl = document.getElementById("quote");
 const authorEl = document.getElementById("author");
-const button = document.getElementById("new-quote");
+const button = document.getElementById("new");
 
 button.addEventListener("click", function() {
   const randomIndex = Math.floor(Math.random() * quotes.length);
